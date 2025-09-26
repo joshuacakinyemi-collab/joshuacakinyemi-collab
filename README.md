@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hi, I'm Joshua Akinyemi 👋
 
 ## 👨‍🏫 About Me
