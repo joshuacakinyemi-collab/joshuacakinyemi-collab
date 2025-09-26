@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Joshua Akinyemi 👋
 
-<!--
-**joshuacakinyemi-collab/joshuacakinyemi-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🏫 About Me
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- Born and raised in Staten Island 
+- Outside of work I like to play video games, edit video, and blender
+- Let's connect via email: joshuacakinyemi@gmail.com
 
-Here are some ideas to get you started:
+## Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- JavaScript
+
+### Frameworks & Libraries
+- Node.js
+
+### Tools
+- Git
+- GitHub
+
