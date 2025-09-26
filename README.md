@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there, my name is Joshua 👋
 ## 🔭 I’m currently working on nothing as of now
 ## 🌱 I’m currently learning how to code
 ## My hobbies are Video Games, Blender, and video editing.
