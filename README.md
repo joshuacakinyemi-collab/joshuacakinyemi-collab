@@ -1,25 +1,3 @@
-# Hi, I'm Joshua Akinyemi 👋
-
-## 👨‍🏫 About Me
-- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
-- Born and raised in Staten Island 
-- Outside of work I like to play video games, edit video, and blender
-- Let's connect via email: joshuacakinyemi@gmail.com
-
-## Tech Stack:
-
-### Languages
-- JavaScript
-
-### Frameworks & Libraries
-- Node.js
-
-### Tools
-- Git
-- GitHub
-
-
-[Read the `how-to-use.md` first](./how-to-use.md) 
 # Hi, I'm Joshua Caleb Akinyemi 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=355E3B&width=900&lines=[Your+Tagline]+;[Another+Line];[Something+Fun+About+You])](https://git.io/typing-svg)
