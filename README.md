@@ -5,11 +5,11 @@
 ---
 
 ## 👨‍🏫 About Me
-- **1+ years of experience** — I'm just a guy who want to learn the world of coding and make art with it.
+- **1+ years of experience** — I'm just a guy who wants to learn the world of coding and make art with it.
 - **Student at The Marcy Lab School(link)**, where I [describe your focus].
-- Born and rased in **Staten Island**.
+- Born and raised in **Staten Island**.
 - **Strengths**:  [Teamwork], [Creative vision], [Adapt learning].
-- Outside of work I like to play video games, edit video, and 3D art.
+- Outside of work, I like to play video games, edit video, and do 3D art.
 - **Mission**: My goal is to create a game people can love.
 
 ---
