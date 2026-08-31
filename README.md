@@ -108,6 +108,30 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💵 ChainBase</h3>
+      <div align="center">
+        <a href="https://chainbase-17bj.onrender.com" target="_blank">
+          <img src="https://api.microlink.io/?url=https%3A%2F%2Fchainbase-17bj.onrender.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="ChainBase Preview" />
+        </a>
+        <br/><br/>
+        <p>A full-stack blockchain-powered platform that automates and transparently distributes a Citizens Dividend in USDC on Ethereum. Aug 2026.</p>
+        <a href="https://chainbase-17bj.onrender.com">
+          <img src="https://img.shields.io/badge/Live%20Demo-355E3B?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        </a>
+        <a href="https://github.com/Citizen-Dividend-ProjectHub/ChainBase">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+        <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat-square" />
+      </div>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
