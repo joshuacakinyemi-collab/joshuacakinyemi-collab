@@ -69,15 +69,15 @@
     <td width="50%" valign="top">
       <h3 align="center">🎵 Music Playlist Maker</h3>
       <div align="center">
-        <a href="https://full-stack-project-remix-joshuacakinyemi.onrender.com/" target="_blank">
-          <img src="https://api.microlink.io/?url=https%3A%2F%2Ffull-stack-project-remix-joshuacakinyemi.onrender.com%2F&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Music Playlist Maker Preview" />
+        <a href="https://yoshiyatunes.onrender.com/" target="_blank">
+          <img src="https://api.microlink.io/?url=https%3A%2F%2Fyoshiyatunes.onrender.com%2F&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Music Playlist Maker Preview" />
         </a>
         <br/><br/>
         <p>A full-stack web app to create and manage music playlists. May 2026.</p>
-        <a href="https://full-stack-project-remix-joshuacakinyemi.onrender.com/">
+        <a href="https://yoshiyatunes.onrender.com/">
           <img src="https://img.shields.io/badge/Live%20Demo-355E3B?style=for-the-badge&logo=googlechrome&logoColor=white" />
         </a>
-        <a href="https://github.com/The-Marcy-Lab-School-Assignments/full-stack-project-remix-joshuacakinyemi-collab/tree/main">
+        <a href="https://github.com/joshuacakinyemi-collab/playlistMaker/tree/main">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br/><br/>
