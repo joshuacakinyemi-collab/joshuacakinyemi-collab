@@ -14,10 +14,10 @@
 
 ## 👨‍🏫 About Me
 - **1+ years of experience** — I'm just a guy who want to learn the world of coding and make art with it.
-- **Student at [The Marcy Lab School](https://www.marcylabschool.org/)**, building full-stack web development skills.
+- **SWE Alumni at [The Marcy Lab School](https://www.marcylabschool.org/)**, building full-stack web development skills.
 - Born and raised in **Staten Island**.
 - **Strengths**:  [Teamwork], [Creative vision], [Adapt learning], [Planner].
-- Outside of work I like to play video games, edit video, and 3D art.
+- Outside of work I like to play video games, edit video, and create 3D art.
 - **Mission**: My goal is to create a game people can love.
 
 ---
@@ -43,22 +43,7 @@
 ![Terminal](https://img.shields.io/badge/-Command%20Line-4D4D4D?logo=windowsterminal&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuacakinyemi-collab&show_icons=true&theme=dark&hide_border=true&title_color=355E3B&icon_color=355E3B" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuacakinyemi-collab&layout=compact&theme=dark&hide_border=true&title_color=355E3B" height="165" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=joshuacakinyemi-collab&theme=dark&hide_border=true&ring=355E3B&fire=355E3B&currStreakLabel=355E3B" />
-
-</div>
 
 ---
 
@@ -108,30 +93,7 @@
       </div>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💵 ChainBase</h3>
-      <div align="center">
-        <a href="https://chainbase-17bj.onrender.com" target="_blank">
-          <img src="https://api.microlink.io/?url=https%3A%2F%2Fchainbase-17bj.onrender.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="ChainBase Preview" />
-        </a>
-        <br/><br/>
-        <p>A full-stack blockchain-powered platform that automates and transparently distributes a Citizens Dividend in USDC on Ethereum. Aug 2026.</p>
-        <a href="https://chainbase-17bj.onrender.com">
-          <img src="https://img.shields.io/badge/Live%20Demo-355E3B?style=for-the-badge&logo=googlechrome&logoColor=white" />
-        </a>
-        <a href="https://github.com/Citizen-Dividend-ProjectHub/ChainBase">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
-        <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat-square" />
-      </div>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
+  
 </table>
 
 ---
