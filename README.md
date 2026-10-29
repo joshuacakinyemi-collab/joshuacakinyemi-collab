@@ -8,12 +8,19 @@
   <tr>
     <td align="center">
       <h3>🌐 My Portfolio</h3>
-      <p>Everything I've built, all in one place.</p>
+      <p>Everything I've built, all in one place. Let's connect!</p>
       <a href="https://joshuacakinyemi-collab.github.io/">
         <img src="https://img.shields.io/badge/Visit%20Site-355E3B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio site" />
       </a>
       <a href="https://github.com/joshuacakinyemi-collab/joshuacakinyemi-collab.github.io">
         <img src="https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source code" />
+      </a>
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/joshuacaleb-akinyemi">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:joshuacakinyemi@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
     </td>
   </tr>
@@ -32,18 +39,7 @@ I'm just a guy who wants to learn the world of coding and make art with it.
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js" title="Express.js" />
-  <img src="https://skillicons.dev/icons?i=electron" height="48" alt="Electron" title="Electron" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=js,py,html,css,react,nodejs,express,electron,postgres,git,github,vscode&perline=12" alt="Tech stack" />
 </p>
 
 ## 📌 Featured Projects
@@ -105,20 +101,6 @@ I'm just a guy who wants to learn the world of coding and make art with it.
     </td>
   </tr>
 </table>
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://joshuacakinyemi-collab.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-355E3B?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/joshuacaleb-akinyemi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:joshuacakinyemi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=355E3B&height=120&section=footer" />
